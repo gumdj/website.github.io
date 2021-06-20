@@ -1,4 +1,3 @@
-# website.github.io
 <h1 align="center">Web应用基础</h1>
 
 ## 一、项目主题
