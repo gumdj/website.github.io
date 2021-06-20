@@ -16,9 +16,9 @@
 
 ​	我使用了vue ui工具快速建立项目
 
-![image-20210620151005628](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620151005628.png)
+![image-20210620151005628](image-20210620151005628.png)
 
-![image-20210620151040230](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620151040230.png)
+![image-20210620151040230](image-20210620151040230.png)
 
 
 
