@@ -26,47 +26,47 @@
 
 ​	我利用了Vue的路由机制，写了六个页面组件用于页面的动态组合
 
-![image-20210620152314828](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152314828.png)
+![image-20210620152314828](image-20210620152314828.png)
 
 主页面：
 
-![image-20210620152426860](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152426860.png)
+![image-20210620152426860](image-20210620152426860.png)
 
 商品信息页面：
 
-![image-20210620152650221](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152650221.png)
+![image-20210620152650221](image-20210620152650221.png)
 
 点击新增：
 
-![image-20210620152717570](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152717570.png)
+![image-20210620152717570](image-20210620152717570.png)
 
 点击编辑：
 
-![image-20210620152836115](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152836115.png)
+![image-20210620152836115](image-20210620152836115.png)
 
 点击删除：
 
-![image-20210620152933322](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152933322.png)
+![image-20210620152933322](image-20210620152933322.png)
 
 点击查看：
 
-![image-20210620152950753](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620152950753.png)
+![image-20210620152950753](image-20210620152950753.png)
 
 品牌页面：
 
-![image-20210620153028715](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620153028715.png)
+![image-20210620153028715](image-20210620153028715.png)
 
 多选功能：
 
-![image-20210620153042333](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620153042333.png)
+![image-20210620153042333](image-20210620153042333.png)
 
 分类页面：
 
-![image-20210620153340719](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620153340719.png)
+![image-20210620153340719](image-20210620153340719.png)
 
 点击新增：
 
-![image-20210620153428883](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210620153428883.png)
+![image-20210620153428883](image-20210620153428883.png)
 
 
 
